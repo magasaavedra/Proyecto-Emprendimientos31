@@ -1,0 +1,64 @@
+/**{
+    padding: 0;
+    margin: 0;
+}*/
+
+
+main{
+    background-color:  rgba(88, 81, 81, 0.39);
+}
+.h1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.titulo h1{
+
+    font-size: 23px;
+    font-family: 'Alfa Slab One', cursive; 
+}
+
+
+
+img{
+
+    height: 500px;
+    
+
+}
+
+
+
+
+
+h5{
+    color: aliceblue;
+}
+
+.sub-titulo{
+    /*background-color: rgba(88, 81, 81, 0.39);*/
+}
+
+.sub-titulo h2{
+    color: black;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Alfa Slab One', cursive;
+   /*font-family: 'Montserrat', sans-serif;*/
+  font-size:35px;
+
+}
+
+
+
+h3{
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.boton-card{
+    display: flex;
+   justify-content: center;
+}
