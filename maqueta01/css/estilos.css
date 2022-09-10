@@ -62,3 +62,41 @@ h3{
     display: flex;
    justify-content: center;
 }
+
+.card{
+    box-shadow: inset black;
+}
+p{
+    color: aliceblue;
+}
+
+.bi-instagram {
+    color:#ffc008
+}
+
+.bi-twitter{
+    color: #ffc008
+}
+
+.insta{
+    height: 10px;
+}
+.bi-facebook{
+    color:#ffc008
+}
+
+.registro{
+   display: flex;
+   justify-content: center;
+}
+
+hr{
+    color:white
+}
+
+.copy{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+ 
